@@ -33,6 +33,7 @@
 📝 Goals of the Analysis:
 
 To understand the overall growth trajectory of avocado sales from 2015 to 2017.
+
 To uncover customer behavior and explore any possible cost-saving strategies.
 
 📊Methodology:
@@ -40,6 +41,7 @@ To uncover customer behavior and explore any possible cost-saving strategies.
 As part of my learning journey, I decided to use both SQL Server and Power BI for data analysis.
 
 I first imported the dataset into SQL Server and inspected the data.
+
 The cleaning, analysis, and visualization were performed in Power BI.
 
 
