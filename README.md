@@ -71,7 +71,9 @@ The columns [Total Volume] and [Total Bags] were checked to ensure their numbers
 
         -[Total Bags]  corresponding columns: [Small Bags], [Large Bags], and [XLarge Bags]. 
 
-There was no compatibility, so [Total Volume] and [Total Bags] were replaced by [Units Sold] and [Total Bags Checked].
+         Result: No compatibility.
+         
+         Action: [Total Volume] and [Total Bags] were replaced by [Units Sold] and [Total Bags Checked].
 
 Rows for the US Total were filtered out from the [Region] column.
 
