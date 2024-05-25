@@ -59,7 +59,7 @@ The finaly number of rows are: 16,639.
 
 There were no null or empty values.
 
-Duplicates were found in the Index column, so a new index column was added.
+Duplicates were found in the Index column, so a new index column was added to ensure uniqueness and data integrity.
 
 Column data types were corrected. The column [Total Volume] was attributed as a whole number, given that avocados are normally sold in single units and not by weight.
 
@@ -67,9 +67,9 @@ The columns [Small Bags], [Large Bags], and [XLarge Bags] were also attributed a
 
 The columns [Total Volume] and [Total Bags] were checked to ensure their numbers are the result of summing the corresponding columns:
 
-        -For [Total Volume]: [4046] , [4225] , [4770] . 
+        -[Total Volume]  corresponding columns: [4046] , [4225] , [4770] . 
 
-        -For [Total Bags]: [Small Bags], [Large Bags], and [XLarge Bags]. 
+        -[Total Bags]  corresponding columns: [Small Bags], [Large Bags], and [XLarge Bags]. 
 
 There was no compatibility, so [Total Volume] and [Total Bags] were replaced by [Units Sold] and [Total Bags Checked].
 
