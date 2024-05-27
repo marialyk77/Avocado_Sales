@@ -63,13 +63,13 @@ Duplicates were found in the Index column, so a new index column was added to en
 
 Column data types were corrected. The column [Total Volume] was attributed as a whole number, given that avocados are normally sold in single units and not by weight.
 
-The columns [Small Bags], [Large Bags], and [XLarge Bags] were also attributed as whole numbers. However, further discussion and clarification are needed from the stakeholders.
+The columns [Small Bags], [Large Bags], and [XLarge Bags] were attributed as decimal numbers. However, further discussion and clarification are needed from the stakeholders.
 
-The columns [Total Volume] and [Total Bags] were checked to ensure their numbers are the result of summing the corresponding columns:
+The columns [Total Volume] and [Total Bags] were verified to ensure their values are the sum of their respective constituent columns:
 
-        -[Total Volume]  corresponding columns: [4046] , [4225] , [4770] . 
+         [Total Volume] is the sum of the values in the columns: [4046], [4225], and [4770].
 
-        -[Total Bags]  corresponding columns: [Small Bags], [Large Bags], and [XLarge Bags]. 
+         [Total Bags] is the sum of the values in the columns: [Small Bags], [Large Bags], and [XLarge Bags].
 
          Result: No compatibility.
          
