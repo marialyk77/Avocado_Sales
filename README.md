@@ -1,36 +1,36 @@
-🥑 Avocado Sales Data
+ # 🥑 Avocado Sales Data
 
 🌏 The data is sourced from Kaggle:https://www.kaggle.com/datasets/neuromusic/avocado-prices.
 
 🏺 Columns: 
  
-          Index
+   - Index
          
-          Date - The date of the observation
+   - Date - The date of the observation
          
-          AveragePrice - the average price of a single avocado
+   - AveragePrice - the average price of a single avocado
          
-          type - conventional or organic
+   - type - conventional or organic
          
-          year - the year
+   - year - the year
          
-          Region - the city or region of the observation
+   - Region - the city or region of the observation
          
-          Total Volume - Total number of avocados sold
+   - Total Volume - Total number of avocados sold
          
-          4046 - Total number of avocados with PLU 4046 sold
+   - 4046 - Total number of avocados with PLU 4046 sold
          
-          4225 - Total number of avocados with PLU 4225 sold
+   - 4225 - Total number of avocados with PLU 4225 sold
          
-          4770 - Total number of avocados with PLU 4770 sold
+   - 4770 - Total number of avocados with PLU 4770 sold
          
-          Small Bags
+   - Small Bags
          
-          Large Bags
+   - Large Bags
          
-          XLarge Bags
+   - XLarge Bags
 
-📝 Goals of the Analysis:
+## Goals of the Analysis:
 
 To understand the overall growth trajectory of avocado sales from 2015 to 2017.
 
