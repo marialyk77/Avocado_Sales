@@ -1,6 +1,27 @@
  # 🥑 Avocado Sales Data
 
+## Project overview
+
 🌏 The data is sourced from Kaggle:https://www.kaggle.com/datasets/neuromusic/avocado-prices.
+
+
+
+## Goals of the Analysis:
+
+To understand the overall growth trajectory of avocado sales from 2015 to 2017.
+
+To uncover customer behavior and explore any possible cost-saving strategies.
+
+##   Tools used 
+
+As part of my learning journey, I decided to use both SQL Server and Power BI for data analysis.
+
+I first imported the dataset into SQL Server and inspected the data.
+
+The cleaning, analysis, and visualization were performed in Power BI.
+
+
+## Dataset Overview:
 
 🏺 Columns: 
  
@@ -30,24 +51,7 @@
          
    - XLarge Bags
 
-## Goals of the Analysis:
-
-To understand the overall growth trajectory of avocado sales from 2015 to 2017.
-
-To uncover customer behavior and explore any possible cost-saving strategies.
-
-📊Methodology:
-
-As part of my learning journey, I decided to use both SQL Server and Power BI for data analysis.
-
-I first imported the dataset into SQL Server and inspected the data.
-
-The cleaning, analysis, and visualization were performed in Power BI.
-
-
-🔍 Dataset Overview:
-
-The original dataset contained: 18,249 rows.
+The original dataset contained: 18.249 rows.
 
 It covered the years between 2015 and 2019 and contained data only for Sundays.
 
