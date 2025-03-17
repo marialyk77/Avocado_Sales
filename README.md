@@ -14,6 +14,16 @@ To uncover customer behavior and explore any possible cost-saving strategies.
 
 ## Answers 
 
+
+1. Conventional avocado sales are vastly higher than organic avocado sales, with a total of $6.72 billion compared to $0.19 billion for organic avocados, which translates to a 3,440% difference.
+2. General positive growth trajectory in avocado sales over the three-year period from 2015 to 2017, despite a slight setback in 2016.
+3. The average price for organic avocados is higher at $1.70 compared to $1.20 for conventional avocados. As the price decreases, sales volume increases, indicating a strong price sensitivity among consumers.
+4. A higher proportion of large bags are sold for organic avocados (31%) compared to conventional avocados (22%), possibly due to consumers buying in bulk to save on cost.
+
+
+
+
+
 ##   Tools used 
 
 As part of my learning journey, I decided to use both **SQL Server** and **Power BI** for data analysis.
