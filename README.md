@@ -16,7 +16,7 @@ To uncover customer behavior and explore any possible cost-saving strategies.
 
 ##   Tools used 
 
-As part of my learning journey, I decided to use both SQL Server and Power BI for data analysis.
+As part of my learning journey, I decided to use both **SQL Server** and **Power BI** for data analysis.
 
 - I first imported the dataset into SQL Server where I inspected the data: 
 
