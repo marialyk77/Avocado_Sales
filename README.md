@@ -15,6 +15,20 @@ To uncover customer behavior and explore any possible cost-saving strategies.
 Please note that the dataset does not provide information regarding age or income status, which limits the ability to perform a complete segment analysis.
 
 
+## Report 
+
+
+My report is divided into two sections: Avocado Sales and Purchasing Patterns.
+
+
+![image](https://github.com/user-attachments/assets/c5d8b6c2-af78-4480-9191-7eba69f1330a)
+
+
+
+![image](https://github.com/user-attachments/assets/7fceaf31-31f4-4cbf-a183-7ad6348ec161)
+
+
+
 ## Answers 
 
 
