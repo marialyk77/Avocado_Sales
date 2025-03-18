@@ -18,15 +18,13 @@ To uncover customer behavior and explore any possible cost-saving strategies.
 ## Report 
 
 
-My report is divided into two sections: Avocado Sales and Purchasing Patterns.
+My report is divided into two sections: **Avocado Sales** and **Purchasing Patterns**.
 
 
-![image](https://github.com/user-attachments/assets/c5d8b6c2-af78-4480-9191-7eba69f1330a)
+![image](https://github.com/user-attachments/assets/81848349-5873-42fe-859d-5bc0bf6720c1)
 
 
-
-![image](https://github.com/user-attachments/assets/7fceaf31-31f4-4cbf-a183-7ad6348ec161)
-
+![image](https://github.com/user-attachments/assets/bd0d84c1-0ba0-4d6f-a028-33ddbcef374a)
 
 
 ## Answers 
