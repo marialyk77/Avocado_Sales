@@ -12,7 +12,7 @@ To understand the overall growth trajectory of avocado sales from 2015 to 2017.
 
 To uncover customer behavior and explore any possible cost-saving strategies.
 
-Please note that the dataset does not provide information regarding age or income status, which limits the ability to perform a complete segment analysis.
+*Please note that the dataset does not provide information regarding age or income status, which limits the ability to perform a complete segment analysis.*
 
 
 ## Report 
